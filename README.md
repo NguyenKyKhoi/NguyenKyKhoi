@@ -1,6 +1,8 @@
 What's up there, Welcome to my GitHub!, I'm Lùi ( Roasted Sweet Potato 🍠 ), 
 I'm on a journey of learning and developing my coding skills, one line at a time.
 ---
+📫 Connect Me : gmail: nguyenkykhoi2603@gmail.com
+---
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
