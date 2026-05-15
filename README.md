@@ -1,4 +1,4 @@
-What's up there, I'm Lùi ( Roasted Sweet Potato 🍠 ), 
+What's up there, Welcome to my GitHub!, I'm Lùi ( Roasted Sweet Potato 🍠 ), 
 I'm on a journey of learning and developing my coding skills, one line at a time.
 ---
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
