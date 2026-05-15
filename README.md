@@ -1,6 +1,6 @@
-What's up there, I'm Lùi ( Roasted Sweet Potato 🍠 )
+What's up there, I'm Lùi ( Roasted Sweet Potato 🍠 ), 
 I'm on a journey of learning and developing my coding skills, one line at a time.
-
+---
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -11,14 +11,6 @@ I'm on a journey of learning and developing my coding skills, one line at a time
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 GitHub Stats
-![NguyenKyKhoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenKyKhoi&show_icons=true&theme=tokyonight)
-
-## 🎮 My GitHub Contribution Game
-![My GitHub Game](game.gif)
-
-## 📫 Connect Me
-> *(Thêm email, Facebook, hoặc LinkedIn của bạn vào đây)*
 
 ![My GitHub Game](game.gif)
 
