@@ -11,7 +11,14 @@ I'm on a journey of learning and developing my coding skills, one line at a time
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 📊 GitHub Stats
+![NguyenKyKhoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenKyKhoi&show_icons=true&theme=tokyonight)
 
+## 🎮 My GitHub Contribution Game
+![My GitHub Game](game.gif)
+
+## 📫 Connect Me
+> *(Thêm email, Facebook, hoặc LinkedIn của bạn vào đây)*
 
 ![My GitHub Game](game.gif)
 
